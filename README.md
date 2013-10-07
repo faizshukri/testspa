@@ -39,4 +39,7 @@ Get Started
 git clone https://github.com/faizshukri/testspa.git testspa
 cd testspa
 npm install
+node app.js
 ```
+
+Open http://localhost:3000
