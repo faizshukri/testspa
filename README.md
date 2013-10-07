@@ -7,7 +7,7 @@ My personal project. Just for experiment and to learn the concept of SPA site.
 
 Version
 -------
-0.1 (Nighly build)
+0.0.0.0.0.0.0.0.0.0.0.0.0.1
 
 Content
 -------
