@@ -36,7 +36,7 @@ The technology that I want to use was
 Get Started
 -----------
 ```sh
-git clone [repo]
-cd [repo]
+git clone https://github.com/faizshukri/testspa.git testspa
+cd testspa
 npm install
 ```
